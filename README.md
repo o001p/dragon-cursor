@@ -6,7 +6,7 @@ A simple and interactive cursor animation project built using HTML and JavaScrip
 
 🚀 Live Demo
 
-👉 https://o001p.github.io/dragon-cursor/
+👉 https://MR-xPYTHONx.github.io/dragon-cursor/
 
 ---
 
